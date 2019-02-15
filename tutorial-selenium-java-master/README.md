@@ -1,3 +1,4 @@
+# applitools_exercise_2
 - https://github.com/shneorc/applitools_exercise_2.git
 - The code in this folder was tested on windows 10 OS.
 - Open CMD
