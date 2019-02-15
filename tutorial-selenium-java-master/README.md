@@ -1,0 +1,17 @@
+- https://github.com/shneorc/applitools_exercise.git
+- The code in this folder was tested on windows 10 OS.
+- Open CMD
+- Navigate to the project folder. For example:
+- cd C:\Users\MyUser\eclipse-workspace\tutorial-selenium-java-master
+- mvn package  # To install dependencies and compile the project 
+- mvn clean
+- mvn compile
+- mvn package
+- mvn exec:java -Dexec.mainClass="com.applitools.quickstarts.App"
+- Assumptions:
+- Firefox browser is installed.
+- Java is installed.
+- Maven is installed.
+- APPLITOOLS_API_KEY should be set in enviornments varaibales (Windows)
+- Applitools account exists and active.
+- 
